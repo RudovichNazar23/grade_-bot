@@ -1,1 +1,1 @@
-# grade_-bot
+# grade_bot
